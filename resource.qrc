@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/SpamIPCheck/res/background.png</file>
+        <file>qml/SpamIPCheck/res/close_down.png</file>
+        <file>qml/SpamIPCheck/res/error.png</file>
+        <file>qml/SpamIPCheck/res/import_A.png</file>
+        <file>qml/SpamIPCheck/res/import_B.png</file>
+        <file>qml/SpamIPCheck/res/open_up.png</file>
+        <file>qml/SpamIPCheck/res/proc_A.png</file>
+        <file>qml/SpamIPCheck/res/proc_B.png</file>
+        <file>qml/SpamIPCheck/res/shadow.png</file>
+        <file>qml/SpamIPCheck/Border.qml</file>
+        <file>qml/SpamIPCheck/ListMenu.qml</file>
+        <file>qml/SpamIPCheck/ListViewDelegate.qml</file>
+        <file>qml/SpamIPCheck/main.qml</file>
+        <file>qml/SpamIPCheck/Output.qml</file>
+        <file>qml/SpamIPCheck/SimpleProgressBar.qml</file>
+    </qresource>
+</RCC>
